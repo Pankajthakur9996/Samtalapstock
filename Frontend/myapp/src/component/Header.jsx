@@ -7,7 +7,7 @@ export const Header=()=>
     return(
         <>
         <Container fluid className="w-100">
-            <div className="d-flex justify-content-between" style={{border:"1px solid skyblue"}}>
+            <div className="d-flex justify-content-between" style={{border:"1px solid skyblue",borderLeft:"none",borderRight:"none"}}>
                 <div className="d-flex justify-content-center align-items-center h-100">
                        <img src={logo} alt="images" width="40"
                         height="40" className="d-inline-block align-top m-4" style={{ border:"1px solid black", borderRadius:"30px"}} />
@@ -20,7 +20,7 @@ export const Header=()=>
                                     Sign In
                                 </Dropdown.Toggle>
                                 <Dropdown.Menu>
-                                    <Dropdown.Item href="/sign">
+                                    <Dropdown.Item href="/login1">
                                     sign in
                                     </Dropdown.Item>
                                      <Dropdown.Item href="/create">
