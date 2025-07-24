@@ -5,18 +5,19 @@ const signin= async(req ,res)=>
     const data=req.body
   try{
     const email=data.email;
+    const password=data.password;
 
-        const auth3=await createModal.find({email})
+        const auth3=await createModal.findOne({email})
         
         if(!auth3)
         {
             return  res.json({
-                message:"invalid email"
+                message:"invalid Caredentials"
             })
         }
-        if(data.email &&data.password)
+        if(email &&password)
         {
-        if(data.email==auth3.email&&data.password==auth3.password)
+        if(email==auth3.email&&password==auth3.password)
         {
             res.status(200).json(
                 {

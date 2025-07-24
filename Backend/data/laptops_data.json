@@ -1,0 +1,1114 @@
+{
+  "laptops": [
+    {
+      "id": 1,
+      "name": "HP Pavilion 14 Gen1",
+      "brand": "HP",
+      "screen": "14 inches",
+      "images": [
+        "https://m.media-amazon.com/images/I/51SlWsrXV4L.jpg",
+        "https://m.media-amazon.com/images/I/51mmFgufaoL.jpg",
+        "https://m.media-amazon.com/images/I/41oJuUJd%2BeL.jpg",
+        "https://m.media-amazon.com/images/I/71Jk9PDX9RL.jpg"
+      ],
+      
+      "price": "49999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 2,
+      "name": "HP Envy x360 Gen2",
+      "brand": "HP",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/712E88NOTgL._SL1500_.jpg","https://m.media-amazon.com/images/I/81bhH2saLAL._SL1500_.jpg","https://m.media-amazon.com/images/I/71rAgcM5ALL._SL1500_.jpg","https://m.media-amazon.com/images/I/818I1N0T0dL._SL1500_.jpg"
+
+        
+      ],
+      "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 3,
+      "name": "HP Pavilion 14 Gen3",
+      "brand": "HP",
+      "images": ["https://m.media-amazon.com/images/I/71YqSAgKL7L._SL1500_.jpg","https://m.media-amazon.com/images/I/71Pj-0+-JxL._SL1500_.jpg","https://m.media-amazon.com/images/I/81rXwg-6MML._SL1500_.jpg","https://m.media-amazon.com/images/I/81Ut-lr223L._SL1500_.jpg"],
+      "price": "77890",
+      "specs": {
+        "ram": "16GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 4,
+      "name": "HP Envy x360 Gen4",
+      "brand": "HP",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/71nkSIk9ILL._SL1500_.jpg","https://m.media-amazon.com/images/I/81jPm8eVxBL._SL1500_.jpg","https://m.media-amazon.com/images/I/81NffuVLu2L._SL1500_.jpg","https://m.media-amazon.com/images/I/71qvuIwcT3L._SL1500_.jpg"],
+      "price": "52999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"                      
+      }
+    },
+    {
+      "id": 5,
+      "name": "HP Pavilion 14 Gen5",
+      "brand": "HP",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/71LPks5e-CL._SL1500_.jpg","https://m.media-amazon.com/images/I/71TzeZxu4dL._SL1500_.jpg","https://m.media-amazon.com/images/I/81-u+891gqL._SL1500_.jpg","https://m.media-amazon.com/images/I/71LPks5e-CL._SL1500_.jpg"],
+      "price": "53999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 6,
+      "name": "HP Envy x360 Gen6",
+      "brand": "HP",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/714jCUGQ3AL._SL1500_.jpg","https://m.media-amazon.com/images/I/61LcYZ7NBSL._SL1500_.jpg","https://m.media-amazon.com/images/I/61HxSXal-0L._SL1480_.jpg","https://m.media-amazon.com/images/I/61cJm4TDI0L._SL1500_.jpg"],
+      "price": "54999",
+      "specs": {
+        "ram": "16GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 7,
+      "name": "HP Pavilion 14 Gen7",
+      "brand": "HP",
+       "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/71nkSIk9ILL._SL1500_.jpg","https://m.media-amazon.com/images/I/81RuVklb9rL._SL1500_.jpg","https://m.media-amazon.com/images/I/81Lvy25d20L._SL1500_.jpg","https://m.media-amazon.com/images/I/817DEqbBLYL._SL1500_.jpg"],
+      "price": "55999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 8,
+      "name": "HP Envy x360 Gen8",
+      "brand": "HP",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/712E88NOTgL._SL1500_.jpg","https://m.media-amazon.com/images/I/71OHj3LtfDL._SL1500_.jpg","https://m.media-amazon.com/images/I/81bhH2saLAL._SL1500_.jpg","https://m.media-amazon.com/images/I/818I1N0T0dL._SL1500_.jpg"],
+      "price": "56999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 9,
+      "name": "HP Pavilion 14 Gen9",
+      "brand": "HP",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/81h346HzqML._SL1500_.jpg","https://m.media-amazon.com/images/I/71m0WtAotsL._SL1500_.jpg","https://m.media-amazon.com/images/I/619fRP-rmQS._SL1500_.jpg","https://m.media-amazon.com/images/I/71HTmGzmDxL._SL1500_.jpg"],
+      "price": "57999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 10,
+      "name": "HP Envy x360 Gen10",
+      "brand": "HP",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/71nkSIk9ILL._SL1500_.jpg","https://m.media-amazon.com/images/I/817DEqbBLYL._SL1500_.jpg"],
+      "price": "58999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 11,
+      "name": "HP Pavilion 14 Gen11",
+      "brand": "HP",
+      "images": ["https://m.media-amazon.com/images/I/71no5vwq-1L._SL1500_.jpg","https://m.media-amazon.com/images/I/71glmDaHiUL._SL1500_.jpg","https://m.media-amazon.com/images/I/71glmDaHiUL._SL1500_.jpg"],
+      "price": "59999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 12,
+      "name": "HP Envy x360 Gen12",
+      "brand": "HP",
+      "screen":"15.6 inch",
+      "images":["https://m.media-amazon.com/images/I/61SubielAyL._SL1500_.jpg","https://m.media-amazon.com/images/I/616GYC+u8jL._SL1500_.jpg","https://m.media-amazon.com/images/I/51lC9RpnM6L._SL1500_.jpg","https://m.media-amazon.com/images/I/51lC9RpnM6L._SL1500_.jpg"],
+      "price": "60999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 13,
+      "name": "HP Pavilion 14 Gen13",
+      "brand": "HP",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/51SlWsrXV4L._SL1000_.jpg","https://m.media-amazon.com/images/I/41cG0UtzFnL._SL1000_.jpg","https://m.media-amazon.com/images/I/511zszTAOHL._SL1000_.jpg"],
+      "price": "61999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 14,
+      "name": "HP Envy x360 Gen14",
+      "brand": "HP",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/712E88NOTgL._SL1500_.jpg","https://m.media-amazon.com/images/I/71rAgcM5ALL._SL1500_.jpg","https://m.media-amazon.com/images/I/81bhH2saLAL._SL1500_.jpg"],
+      "price": "62999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 15,
+      "name": "HP Pavilion 14 Gen15",
+      "brand": "HP",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/41LfvC7F5fL._AC_.jpg","https://m.media-amazon.com/images/I/31m3pDPz6nL._AC_.jpg","https://m.media-amazon.com/images/I/41ccHtZ6QpL._AC_.jpg"],
+  
+      "price": "63999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 16,
+      "name": "HP Envy x360 Gen16",
+      "brand": "HP",
+      "screen":"15.6 inch",
+       "images": ["https://m.media-amazon.com/images/I/712E88NOTgL._SL1500_.jpg","https://m.media-amazon.com/images/I/71rAgcM5ALL._SL1500_.jpg","https://m.media-amazon.com/images/I/81bhH2saLAL._SL1500_.jpg"],
+      
+      "price": "64999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 17,
+      "name": "HP Pavilion 14 Gen17",
+      "brand": "HP",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/81bRlROTekL._SL1500_.jpg","https://m.media-amazon.com/images/I/71C65+ZGYeL._SL1500_.jpg","https://m.media-amazon.com/images/I/71no5vwq-1L._SL1500_.jpg"],
+      "price": "65999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 18,
+      "name": "HP Envy x360 Gen18",
+      "brand": "HP",
+      "screen":"15.6 inch",
+      "images":["https://m.media-amazon.com/images/I/71WRSgV7I5L._SL1500_.jpg","https://m.media-amazon.com/images/I/61ddcwIt5YL._SL1480_.jpg","https://m.media-amazon.com/images/I/61ekr1RcKvL._SL1500_.jpg"],
+      "price": "66999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 19,
+      "name": "HP Pavilion 14 Gen19",
+      "brand": "HP","screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/81bRlROTekL._SL1500_.jpg","https://m.media-amazon.com/images/I/71C65+ZGYeL._SL1500_.jpg","https://m.media-amazon.com/images/I/71no5vwq-1L._SL1500_.jpg"],
+      
+      "price": "67999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 20,
+      "name": "HP Envy x360 Gen20",
+      "brand": "HP",
+      "screen":"15.6 inch",
+       "images": ["https://m.media-amazon.com/images/I/712E88NOTgL._SL1500_.jpg","https://m.media-amazon.com/images/I/71rAgcM5ALL._SL1500_.jpg","https://m.media-amazon.com/images/I/81bhH2saLAL._SL1500_.jpg"],
+      
+      "price": "68999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    
+    {
+      "id": 21,
+      "name": "Samsung Galaxy Book3 Gen1",
+      "brand": "Samsung",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71ohNusGIjL._SL1500_.jpg","https://m.media-amazon.com/images/I/71P1hDEl6tL._SL1500_.jpg","https://m.media-amazon.com/images/I/71XuJy2QDvL._SL1500_.jpg","https://m.media-amazon.com/images/I/71XuJy2QDvL._SL1500_.jpg"],
+      "price": "49999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Samsung Galaxy Book3 Gen2",
+      "brand": "Samsung",
+      "screen":"14 inches",
+      "images":["https://m.media-amazon.com/images/I/61rjrLAEyEL._SL1500_.jpg"],
+      "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Samsung Galaxy Book3 Gen3",
+      "brand": "Samsung",
+      "screen":"15.6 inches",
+      "images":["https://m.media-amazon.com/images/I/71ebfAfgXoL._SL1500_.jpg","https://m.media-amazon.com/images/I/71+G2XKTG9L._SL1500_.jpg","https://m.media-amazon.com/images/I/71WL0KNjWRL._SL1500_.jpg"],
+      "price": "51999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Samsung Galaxy Book3 Gen4",
+      "brand": "Samsung",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/71ohNusGIjL._SL1500_.jpg","https://m.media-amazon.com/images/I/71P1hDEl6tL._SL1500_.jpg","https://m.media-amazon.com/images/I/71XuJy2QDvL._SL1500_.jpg","https://m.media-amazon.com/images/I/71XuJy2QDvL._SL1500_.jpg"],
+      
+      "price": "52999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Samsung Galaxy Book3 Gen5",
+      "brand": "Samsung",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/81NFEnJDJ6L._SL1500_.jpg","https://m.media-amazon.com/images/I/71M3DVGmEqL._SL1500_.jpg","https://m.media-amazon.com/images/I/71fKXLHS1+L._SL1500_.jpg"],
+      "price": "53999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Samsung Galaxy Book3 Gen6",
+      "brand": "Samsung",
+      "screen":"15.6 inches",
+        "images":["https://m.media-amazon.com/images/I/61rjrLAEyEL._SL1500_.jpg"],
+      "price": "54999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Samsung Galaxy Book3 Gen7",
+      "brand": "Samsung",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/41uyvNBsqWL._SX300_SY300_QL70_FMwebp_.jpg"],
+      "price": "55999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Samsung Galaxy Book3 Gen8",
+      "brand": "Samsung",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71UNz2vAQRL._SX679_.jpg","https://m.media-amazon.com/images/I/71i+rqOXp-L._SL1500_.jpg","https://m.media-amazon.com/images/I/71DJaFMz79L._SL1500_.jpg"],
+      "price": "56999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Samsung Galaxy Book3 Gen9",
+      "brand": "Samsung",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/61WUo-C0C7L._SX679_.jpg"],
+      "price": "57999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Samsung Galaxy Book3 Gen10",
+      "brand": "Samsung",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/41uyvNBsqWL._SX300_SY300_QL70_FMwebp_.jpg"],
+      "price": "58999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    
+    {
+      "id": 31,
+      "name": "ASUS Vivobook 16X Gen1",
+      "brand": "ASUS",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/61jojpe4KVL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61tjM7DhZ0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/719w3YHnTiL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51UVsr0gyjL._AC_SL1500_.jpg"],
+      "price": "49999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 32,
+      "name": "ASUS Vivobook 16X Gen2",
+      "brand": "ASUS",
+      "screen":"",
+      "images": ["https://m.media-amazon.com/images/I/718WpRbTdPL._AC_SL1500_.jpg"],
+      "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 33,
+      "name": "ASUS Vivobook 16X Gen3",
+      "brand": "ASUS",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/61lvElgnZZL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71Eqn+-XUZL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71cK65v2wWL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ouDTMlx4L._AC_SL1500_.jpg"],
+      "price": "51999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 34,
+      "name": "ASUS Vivobook 16X Gen4",
+      "brand": "ASUS",
+     "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/61jojpe4KVL.__AC_SX300_SY300_QL70_FMwebp_.jpg","https://m.media-amazon.com/images/I/61pdoeq5j1L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61tjM7DhZ0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71Qows4J89L._AC_SL1500_.jpg"],
+      "price": "52999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 35,
+      "name": "ASUS Vivobook 16X Gen5",
+      "brand": "ASUS",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/61IRywqLYzL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91zhcYGlX4L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61T97uLdhZL._AC_SL1500_.jpg"],
+      "price": "53999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 36,
+      "name": "ASUS Vivobook 16X Gen6",
+      "brand": "ASUS",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71H6im72RJL._AC_SL1462_.jpg","https://m.media-amazon.com/images/I/61QayCldzAL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/7180O9hWmEL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51yiuyMxvZL._AC_.jpg"],
+      "price": "54999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 37,
+      "name": "ASUS Vivobook 16X Gen7",
+      "brand": "ASUS",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/61jojpe4KVL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/719w3YHnTiL._AC_SL1500_.jpg"],
+      "price": "55999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 38,
+      "name": "ASUS Vivobook 16X Gen8",
+      "brand": "ASUS",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/81v5jg9AAKL._SL1500_.jpg","https://m.media-amazon.com/images/I/71TKDLXqoKL._SL1500_.jpg","https://m.media-amazon.com/images/I/812U6BCsrjL._SL1500_.jpg","https://m.media-amazon.com/images/I/8144D-lcOIL._SL1500_.jpg"],
+      "price": "56999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 39,
+      "name": "ASUS Vivobook 16X Gen9",
+      "brand": "ASUS",
+     "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/612ridlKrpL._AC_SL1448_.jpg","https://m.media-amazon.com/images/I/41ojG7dYx2L._AC_SL1000_.jpg","https://m.media-amazon.com/images/I/51yiuyMxvZL._AC_.jpg"],
+      "price": "57999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 40,
+      "name": "ASUS Vivobook 16X Gen10",
+      "brand": "ASUS",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/61WKQG-HhkL._AC_SL1280_.jpg","https://m.media-amazon.com/images/I/516kugHJmnL._AC_SL1280_.jpg","https://m.media-amazon.com/images/I/61z9hh3YQYL._AC_SL1280_.jpg"],
+      "price": "58999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 41,
+      "name": "ASUS Vivobook 16X Gen11",
+      "brand": "ASUS",
+     "screen":"15 inches",
+      "images": ["https://m.media-amazon.com/images/I/718WpRbTdPL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/719e5JK+bnL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71FnDY0u6lL._AC_SL1500_.jpg"],
+      "price": "59999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 42,
+      "name": "ASUS Vivobook 16X Gen12",
+      "brand": "ASUS",
+     "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/612ridlKrpL._AC_SL1448_.jpg","https://m.media-amazon.com/images/I/41ojG7dYx2L._AC_SL1000_.jpg","https://m.media-amazon.com/images/I/51yiuyMxvZL._AC_.jpg"],
+      "price": "60999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 43,
+      "name": "ASUS Vivobook 16X Gen13",
+      "brand": "ASUS",
+      "screen":"14 inches",
+      "images": ["https://m.media-amazon.com/images/I/61WKQG-HhkL._AC_SL1280_.jpg","https://m.media-amazon.com/images/I/516kugHJmnL._AC_SL1280_.jpg","https://m.media-amazon.com/images/I/61z9hh3YQYL._AC_SL1280_.jpg"],
+      "price": "61999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    
+    {
+      "id": 44,
+      "name": "Lenovo IdeaPad Slim 5 Gen1",
+      "brand": "Lenovo",
+     "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/81+SKGgJ9yL._SL1500_.jpg","https://m.media-amazon.com/images/I/61o5qu9M3mL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ApAZetTEL._SL1080_.jpg","https://m.media-amazon.com/images/I/51VQGlHQXsL._SL1500_.jpg"],
+      "price": "49999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Lenovo IdeaPad Slim 5 Gen2",
+      "brand": "Lenovo",
+     "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/81Uv11VfjxL._SL1500_.jpg","https://m.media-amazon.com/images/I/61NRmEGN6ZL._SL1080_.jpg","https://m.media-amazon.com/images/I/71QP7vFVvYL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ybmW6CsqL._SL1080_.jpg"],
+      "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Lenovo IdeaPad Slim 5 Gen3",
+      "brand": "Lenovo",
+     "screen":" 14 inches",
+      "images": ["https://m.media-amazon.com/images/I/816n9hBWHEL._SL1500_.jpg","https://m.media-amazon.com/images/I/71cXhp0LFML._SL1080_.jpg","https://m.media-amazon.com/images/I/61OgMr+RYiL._SL1080_.jpg","https://m.media-amazon.com/images/I/61TmkW2GyPL._SL1080_.jpg"],
+      "price": "51999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Lenovo IdeaPad Slim 5 Gen4",
+      "brand": "Lenovo",
+      "screen":"15 inches",
+      "images": ["https://m.media-amazon.com/images/I/81+SKGgJ9yL._SL1500_.jpg","https://m.media-amazon.com/images/I/61o5qu9M3mL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ApAZetTEL._SL1080_.jpg","https://m.media-amazon.com/images/I/51VQGlHQXsL._SL1500_.jpg"],
+      "price": "52999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Lenovo IdeaPad Slim 5 Gen2",
+      "brand": "Lenovo",
+     "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/81Uv11VfjxL._SL1500_.jpg","https://m.media-amazon.com/images/I/61NRmEGN6ZL._SL1080_.jpg","https://m.media-amazon.com/images/I/71QP7vFVvYL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ybmW6CsqL._SL1080_.jpg"],
+      "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Lenovo IdeaPad Slim 5 Gen6",
+      "brand": "Lenovo",
+      "screen":" 14 inches",
+      "images": ["https://m.media-amazon.com/images/I/816n9hBWHEL._SL1500_.jpg","https://m.media-amazon.com/images/I/71cXhp0LFML._SL1080_.jpg","https://m.media-amazon.com/images/I/61OgMr+RYiL._SL1080_.jpg","https://m.media-amazon.com/images/I/61TmkW2GyPL._SL1080_.jpg"],
+       "price": "54999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Lenovo IdeaPad Slim 5 Gen7",
+      "brand": "Lenovo",
+      "screen":"15 inches",
+       "images": ["https://m.media-amazon.com/images/I/81+SKGgJ9yL._SL1500_.jpg","https://m.media-amazon.com/images/I/61o5qu9M3mL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ApAZetTEL._SL1080_.jpg","https://m.media-amazon.com/images/I/51VQGlHQXsL._SL1500_.jpg"],
+      "price": "55999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Lenovo IdeaPad Slim 5 Gen8",
+      "brand": "Lenovo",
+     "screen":"15 inches",
+      "images": ["https://p1-ofp.static.pub/medias/24320535972_82SECloudGreyX_202208231009041661972191078.png","https://p4-ofp.static.pub//fes/cms/2024/10/30/ecs4bjsolgx46kv5v2s4249ppz992l591763.png","https://p2-ofp.static.pub//fes/cms/2024/10/30/9kg40yv9lnqoj7oovhqao9aur90kjn474481.png","https://p4-ofp.static.pub//fes/cms/2024/10/30/2h6hbjzxxf4ey8dbi8ekzh6oe61row860599.png"],
+      "price": "56999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Lenovo IdeaPad Slim 5 Gen9",
+      "brand": "Lenovo",
+      "screen":"15 inches",
+      "images": ["https://laptopmedia.com/wp-content/uploads/2024/07/5-4.jpg","https://laptopmedia.com/wp-content/uploads/2024/07/5-3-e1720078667874.jpg","https://p4-ofp.static.pub//fes/cms/2024/09/16/6b41yin3taay4m7wtg07zqibtd4o5r688553.png"],
+      "price": "57999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Lenovo IdeaPad Slim 5 Gen10",
+      "brand": "Lenovo",
+      "screen":" 15 inches",
+       "images": ["https://m.media-amazon.com/images/I/81+SKGgJ9yL._SL1500_.jpg","https://m.media-amazon.com/images/I/61o5qu9M3mL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ApAZetTEL._SL1080_.jpg","https://m.media-amazon.com/images/I/51VQGlHQXsL._SL1500_.jpg"],
+       "price": "58999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Lenovo IdeaPad Slim 5 Gen11",
+      "brand": "Lenovo",
+       "screen":"15 inches",
+      "images": ["https://p1-ofp.static.pub/medias/24320535972_82SECloudGreyX_202208231009041661972191078.png","https://p4-ofp.static.pub//fes/cms/2024/10/30/ecs4bjsolgx46kv5v2s4249ppz992l591763.png","https://p2-ofp.static.pub//fes/cms/2024/10/30/9kg40yv9lnqoj7oovhqao9aur90kjn474481.png","https://p4-ofp.static.pub//fes/cms/2024/10/30/2h6hbjzxxf4ey8dbi8ekzh6oe61row860599.png"],
+      "price": "59999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Lenovo IdeaPad Slim 5 Gen12",
+      "brand": "Lenovo",
+      "screen":"15 inches",
+      "images": ["https://laptopmedia.com/wp-content/uploads/2024/07/5-4.jpg","https://laptopmedia.com/wp-content/uploads/2024/07/5-3-e1720078667874.jpg","https://p4-ofp.static.pub//fes/cms/2024/09/16/6b41yin3taay4m7wtg07zqibtd4o5r688553.png"],
+      "price": "60999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Lenovo IdeaPad Slim 5 Gen13",
+      "brand": "Lenovo",
+       "screen":" 15 inches",
+       "images": ["https://m.media-amazon.com/images/I/81+SKGgJ9yL._SL1500_.jpg","https://m.media-amazon.com/images/I/61o5qu9M3mL._SL1080_.jpg","https://m.media-amazon.com/images/I/61ApAZetTEL._SL1080_.jpg","https://m.media-amazon.com/images/I/51VQGlHQXsL._SL1500_.jpg"],
+       "price": "61999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Lenovo IdeaPad Slim 5 Gen14",
+      "brand": "Lenovo",
+     "screen":"15 inches",
+      "images": ["https://p1-ofp.static.pub/medias/24320535972_82SECloudGreyX_202208231009041661972191078.png","https://p4-ofp.static.pub//fes/cms/2024/10/30/ecs4bjsolgx46kv5v2s4249ppz992l591763.png","https://p2-ofp.static.pub//fes/cms/2024/10/30/9kg40yv9lnqoj7oovhqao9aur90kjn474481.png","https://p4-ofp.static.pub//fes/cms/2024/10/30/2h6hbjzxxf4ey8dbi8ekzh6oe61row860599.png"],
+      "price": "62999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    
+    {
+      "id": 58,
+      "name": "Dell Inspiron 15 Gen1",
+      "brand": "Dell",
+      "screen":" 15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71RZx0IHPML._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61aOEheWDOL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61wYbzLqf7L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61aOEheWDOL._AC_SL1500_.jpg"], 
+      "price": "49999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Dell Inspiron 15 Gen2",
+      "brand": "Dell",
+      "screen":"15.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/81zX4JjjPDL._SL1500_.jpg","https://m.media-amazon.com/images/I/71odsKBnG+L._SL1500_.jpg","https://m.media-amazon.com/images/I/71kYH+iEYCL._SL1500_.jpg","https://m.media-amazon.com/images/I/81ykH1LuBKL._SL1500_.jpg"],
+      "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Dell Inspiron 15 Gen3",
+      "brand": "Dell",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+       "price": "51999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Dell Inspiron 15 Gen4",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/81-iVmWfbFL._SL1500_.jpg","https://m.media-amazon.com/images/I/61zjZrClWXL._SL1500_.jpg","https://m.media-amazon.com/images/I/617R+B2juYL._SL1500_.jpg","https://m.media-amazon.com/images/I/41r+MW+5g2L._SL1500_.jpg"],
+      "price": "52999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Dell Inspiron 15 Gen5",
+      "brand": "Dell",
+     "screen":" 15 inches",
+      "images": ["https://m.media-amazon.com/images/I/41R40Q2NSZL._SX300_SY300_QL70_FMwebp_.jpg","https://m.media-amazon.com/images/I/51SrqZLkqvL._SL1080_.jpg","https://m.media-amazon.com/images/I/612gPUpPwcL._SL1080_.jpg","https://m.media-amazon.com/images/I/61LKYyGTn7L._SL1080_.jpg"],
+      "price": "53999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Dell Inspiron 15 Gen6",
+      "brand": "Dell",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+       "price": "54999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Dell Inspiron 15 Gen7",
+      "brand": "Dell",
+      "screen":" 15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/41z1awMS6sL._SX300_SY300_QL70_FMwebp_.jpg","https://m.media-amazon.com/images/I/51L0ry7-APL._SL1080_.jpg","https://m.media-amazon.com/images/I/51DZoqZDFjL._SL1080_.jpg","https://m.media-amazon.com/images/I/513sAIZ0SSL._SL1080_.jpg"],
+      "price": "55999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Dell Inspiron 15 Gen8",
+      "brand": "Dell",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+       "price": "56999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Dell Inspiron 15 Gen9",
+      "brand": "Dell",
+       "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+     "price": "57999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Dell Inspiron 15 Gen10",
+      "brand": "Dell",
+      "screen":" 15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/41z1awMS6sL._SX300_SY300_QL70_FMwebp_.jpg","https://m.media-amazon.com/images/I/51L0ry7-APL._SL1080_.jpg","https://m.media-amazon.com/images/I/51DZoqZDFjL._SL1080_.jpg","https://m.media-amazon.com/images/I/513sAIZ0SSL._SL1080_.jpg"],
+      "price": "58999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Dell Inspiron 15 Gen11",
+      "brand": "Dell",
+      "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+         "price": "59999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Dell Inspiron 15 Gen12",
+      "brand": "Dell",
+       "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+      "price": "60999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Dell Inspiron 15 Gen13",
+      "brand": "Dell",
+     "screen":"15.6 inches",
+      "images": ["https://m.media-amazon.com/images/I/71dKF4pc-6L._AC_SX466_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/51RhL6Fs8qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61lZ2dk3WJL._AC_SL1500_.jpg"],
+        "price": "61999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    
+    {
+      "id": 71,
+      "name": "MacBook Air M2 Gen1",
+      "brand": "Apple",
+      "screen":"13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71x9JI-Il0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61LbQpnFNvL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61S2t5yhVSL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612Tf3UgLbL._AC_SL1500_.jpg"],
+      "price": "49999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 72,
+      "name": "MacBook Air M2 Gen2",
+      "brand": "Apple",
+      "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/719C6bJv8jL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81nHRHmUbaL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81cI7C7m+8L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ElEMzA7DL._AC_SL1500_.jpg"],
+       "price": "50999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 73,
+      "name": "MacBook Air M2 Gen3",
+      "brand": "Apple",
+      "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/61-oTP1X4rL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612x5YczCzL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61F6Ng0di0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91yX13QA7JL._AC_SL1500_.jpg"],
+      "price": "51999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 74,
+      "name": "MacBook Air M2 Gen4",
+      "brand": "Apple",
+     "screen":"13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71x9JI-Il0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61LbQpnFNvL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61S2t5yhVSL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612Tf3UgLbL._AC_SL1500_.jpg"],
+      "price": "52999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 75,
+      "name": "MacBook Air M2 Gen5",
+      "brand": "Apple",
+       "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/719C6bJv8jL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81nHRHmUbaL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81cI7C7m+8L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ElEMzA7DL._AC_SL1500_.jpg"],
+       "price": "53999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 76,
+      "name": "MacBook Air M2 Gen6",
+      "brand": "Apple",
+     "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/61-oTP1X4rL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612x5YczCzL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61F6Ng0di0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91yX13QA7JL._AC_SL1500_.jpg"],
+      "price": "54999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 77,
+      "name": "MacBook Air M2 Gen7",
+      "brand": "Apple",
+      "screen":"13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71x9JI-Il0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61LbQpnFNvL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61S2t5yhVSL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612Tf3UgLbL._AC_SL1500_.jpg"],
+      "price": "55999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 78,
+      "name": "MacBook Air M2 Gen8",
+      "brand": "Apple",
+      "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/719C6bJv8jL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81nHRHmUbaL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81cI7C7m+8L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ElEMzA7DL._AC_SL1500_.jpg"],
+      "price": "56999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 79,
+      "name": "MacBook Air M2 Gen9",
+      "brand": "Apple",
+      "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/61-oTP1X4rL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612x5YczCzL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61F6Ng0di0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91yX13QA7JL._AC_SL1500_.jpg"],
+      "price": "57999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 80,
+      "name": "MacBook Air M2 Gen10",
+      "brand": "Apple",
+      "screen":"13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71x9JI-Il0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61LbQpnFNvL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61S2t5yhVSL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612Tf3UgLbL._AC_SL1500_.jpg"],
+      "price": "58999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 81,
+      "name": "MacBook Air M2 Gen11",
+      "brand": "Apple",
+      "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/719C6bJv8jL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81nHRHmUbaL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81cI7C7m+8L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ElEMzA7DL._AC_SL1500_.jpg"],
+       "price": "59999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    },
+    {
+      "id": 82,
+      "name": "MacBook Air M2 Gen12",
+      "brand": "Apple",
+     "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/61-oTP1X4rL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612x5YczCzL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61F6Ng0di0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91yX13QA7JL._AC_SL1500_.jpg"],
+      "price": "60999",
+      "specs": {
+        "ram": "32GB DDR5",
+        "storage": "1TB SSD",
+        "processor": "Intel Core i7-1255U"
+      }
+    },
+    {
+      "id": 83,
+      "name": "MacBook Air M2 Gen13",
+      "brand": "Apple",
+   "screen":"13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/71x9JI-Il0L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61LbQpnFNvL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/61S2t5yhVSL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/612Tf3UgLbL._AC_SL1500_.jpg"],
+       "price": "61999",
+      "specs": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD",
+        "processor": "Intel Core i3-1215U"
+      }
+    },
+    {
+      "id": 84,
+      "name": "MacBook Air M2 Gen14",
+      "brand": "Apple",
+      "screen":" 13.6 inch",
+      "images": ["https://m.media-amazon.com/images/I/719C6bJv8jL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81nHRHmUbaL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81cI7C7m+8L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ElEMzA7DL._AC_SL1500_.jpg"],
+       "price": "62999",
+      "specs": {
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "processor": "Intel Core i5-1235U"
+      }
+    }
+    ],
+"total":"84",
+"skip": 0,
+"limit": 30
+}

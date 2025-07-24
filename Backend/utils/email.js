@@ -21,7 +21,7 @@ const otp1=genertateOtp()
         const transporter=nodemailer.createTransport({
             host:process.env.SMTP_HOST,
             port:process.env.SMTP_PORT,
-            secure:false,
+            secure:true,
             
             auth: {
         user: process.env.SMTP_MAIL,
@@ -33,11 +33,12 @@ const otp1=genertateOtp()
         const data= await transporter.sendMail({
             from: `"Pankaj" <${process.env.SMTP_MAIL}>`,
             to:email,
-           subject: "Welcome to SAMTALAPSTOCK",
-            text: `Thank you for login! your otp is ${otp1}`
+           subject: `Login Code for Samtalapstock - ${new Date().toLocaleTimeString()}`,
+            text: `Welcome to Samtalapstock`,
+            html:`<h1> yor one time password valid for 1 minute ${otp1}</h1>`
 
         })
-        
+        console.log(data)
     
     }
     catch(error)

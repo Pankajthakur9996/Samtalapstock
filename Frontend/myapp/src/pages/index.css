@@ -2,14 +2,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;         
+  width: 97%;         
   height: 6vh;
   margin-left: 4%;
-  color: skyblue;
+  color:white;
   border-radius: 8px;
   border: 1px solid blue;
-  background-color: white;
+  background-color:blue;
   transition: all 0.3s ease;
+
 }
 
 .codebutton:hover {
@@ -42,4 +43,9 @@
   border-radius: 5px;
   color: white;
   transition: background-color 0.3s ease;
+  ;
+}
+.privacy{
+  margin-top: 100%;
+
 }
