@@ -23,7 +23,7 @@ try{
  await otpAuth.save();
 res.status(200).json(
     {
-        message:`otp is  a sent:${otp}`
+        message:`otp is  a sent your email`
     }
 )
 }

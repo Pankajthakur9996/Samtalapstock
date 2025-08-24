@@ -9,13 +9,13 @@ export const Navbar1 = () => {
         <Row  className="w-100">
           <Col className="d-flex gap-3  align-items-center">
             <Nav.Item>
-              <Link className="nav-link" to="/">Laptops</Link>
+              <Link className="nav-link" to="/laptops">Laptops</Link>
             </Nav.Item>
             <Nav.Item>
-              <Link className="nav-link" to="/desktop">Desktops</Link>
+              <Link className="nav-link" to="/desktops">Desktops</Link>
             </Nav.Item>
             <Nav.Item>
-              <Link className="nav-link" to="/printer">Printers</Link>
+              <Link className="nav-link" to="/printers">Printers</Link>
             </Nav.Item>
             <Nav.Item>
               <Link className="nav-link" to="/monitors">Monitors</Link>
